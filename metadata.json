@@ -1,0 +1,8 @@
+{
+  "name": "A-Force Automotive Atelier",
+  "description": "A luxury automotive atelier built for those who value performance, bespoke coachbuilding, and timeless craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
